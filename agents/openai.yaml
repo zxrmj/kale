@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kale / 卡了"
+  short_description: "Diagnose lag and restore responsiveness / 卡顿定位与恢复"
+  default_prompt: "Use $kale to determine what is stuck, perform a targeted recovery, and verify that my workflow responds again. / 定位卡顿、执行恢复并验证。"
+policy:
+  allow_implicit_invocation: true
